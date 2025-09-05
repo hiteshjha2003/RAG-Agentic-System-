@@ -203,19 +203,6 @@ VRAG-RL extends VRAG to a **training framework**, allowing **multi-turn RL train
 
 ---
 
-## 🙏 Acknowledgements
-
-VRAG-RL builds upon:
-
-* [ViDoRAG](https://github.com/Alibaba-NLP/ViDoRAG) – Multi-agent iterative reasoning.
-* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) – LLM orchestration framework.
-* [Search-R1](https://github.com/PeterGriffinJin/Search-R1) – Visual search engine implementations.
-* [VERL](https://github.com/volcengine/verl) – Reinforcement learning utilities.
-
-We greatly appreciate the contributions of these projects to the community.
-
----
-
 ## 📝 Citation
 
 ```bibtex
