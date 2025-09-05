@@ -60,8 +60,8 @@ conda create -n vrag python=3.10
 conda activate vrag
 
 # Clone repository
-git clone https://github.com/alibaba-nlp/VRAG.git
-cd VRAG
+git clone https://github.com/hiteshjha2003/RAG-Agentic-System.git
+cd RAG-Agentic-System
 
 # Install demo requirements
 pip install -r requirements.txt
